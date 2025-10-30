@@ -21,6 +21,7 @@ This vault explores pattern matching across multiple dimensions:
 ### Core Mechanisms
 - [[PM in The Human Brain]] - Neural architecture and biological implementation
 - [[Types of PM]] - Categories and classification of pattern matching
+- [[Development of PM]] - How these pattern matching abilities are developed in our lives
 
 ### Applications & Systems
 - [[PM in Technologies]] - Artificial intelligence and machine learning applications
