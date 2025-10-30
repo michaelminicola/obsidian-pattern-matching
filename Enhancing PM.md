@@ -10,11 +10,21 @@ Improving your sensory processing typically takes lots of repetitive practice an
 ## Memory Reactivation
 There have been many studies that have aimed to identify if re-envoking memories could aid in training our brains to remember[2].  The study aimed to identify if there was a window of opportunity during memory ingestion that could be utilized to re-activate the material you learned and see if your brain could more easily ingest and remember.  Althogh the studies found this to be useful, one study found that the improvement was less significant than full our repetition in the task[2].  
 
-## Necessary Conditions 
+# Conditions and Facilitators
 
-# Attention
+# #Attention
 Attention to a task is extremely beneficial for developing pattern recognition abilities in the sense of identifying, understanding, and rememebering the subject.  Although, it has been shown that it is not necessary[1].  The background noise of pattern recognition can still settle in your brain without you even realizing it.  Think of yourself always walking past blue billboards on your way to school and never thinking about it, once the billboard turns red you are able to identify the shift in the pattern without consciously thinking about it.  
 
-# Reward Based Learning
-Recieving a reward for your efforts has been proven to boost perceptual learning abilities[1].  This is caused by the release of dopamine when accomplishing the task, which is central in reforcement learning [1].  
+## Reward Based Learning
+Recieving a reward for your efforts has been proven to boost perceptual learning abilities[1].  This is caused by the release of dopamine when accomplishing the task, which is central in reforcement learning [1].  This is similar to what is seen in video games as you achieve "rewards" as you make your conquest through the different levels, giving the individuals something to work towards.  
 
+# Summary
+Although there may be multiple ways to enhance your pattern matching abilities, intensive repitition seems to be the most effective tactic.  This mixed with a reward based learning model, is extremely effective at enhancing ones pattern matching abilities throughout their lives. The way that these pattern matching abilities is measured is discussed here [[Measuring PM]]
+
+
+
+
+# References
+1. Gold, Joshua I., and Takeo Watanabe. “Perceptual Learning.” Science Direct, Jan. 2010, www.sciencedirect.com/science/article/pii/S0960982209019307. 
+
+2. Chen, Chiu-Yueh, and Hans Op de Beeck. “Perceptual Learning with Complex Objects: A Comparison between Full-Practice Training and Memory Reactivation.” eNeuro, U.S. National Library of Medicine, Feb. 2021, pubmed.ncbi.nlm.nih.gov/33558270/. 

@@ -1,6 +1,6 @@
 # Development of Pattern Matching
 
-Pattern matching capabilities become increasily complex during human growth due to the quick expansion of the cerebral cortex.  This pattern recognition stems from previous experiences which is used to construct new patterns in the brain and predict the outcomes of future events.  As humans undergo their different life experiences, they are able to experience new things both physically and emotionally which alter the individuals pattern recognition.[1]
+Pattern matching capabilities become increasily complex during human growth due to the quick expansion of the cerebral cortex.  This pattern recognition stems from previous experiences which is used to construct new patterns in the brain and predict the outcomes of future events.  This prediction and pattern matching abilities within our brains is discussed in more depth here [[PM in The Human Brain]]. As humans undergo their different life experiences, they are able to experience new things both physically and emotionally which alter the individuals pattern recognition.[1]
 
 # Stages of Pattern Processing 
 
