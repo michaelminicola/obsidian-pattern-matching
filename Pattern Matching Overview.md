@@ -27,7 +27,7 @@ This vault explores pattern matching across multiple dimensions:
 - [[AI and The Human Brain]] - Comparing biological and computational approaches
 
 ### Specialized Topics
-Additional areas covered include data representation, human relationships, and specific analytical methods like CCA.
+Additional areas covered include data representation, [[PM in Human Relationships]], and specific analytical methods like CCA.
 
 ---
 

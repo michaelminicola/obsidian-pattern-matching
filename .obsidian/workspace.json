@@ -1,10 +1,11 @@
 {
   "main": {
-    "id": "1c31b08393544826",
+    "id": "dacf37b54478c5da",
     "type": "split",
     "children": [
       {
         "id": "f61ea9aabf9920b9",
+        "id": "f4ba33b5d064216e",
         "type": "tabs",
         "children": [
           {
@@ -97,10 +98,14 @@
             "id": "d022cc6773f87adf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Development of PM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Development of PM"
             }
           }
         ],
@@ -110,15 +115,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c665b77688b938e",
+    "id": "c051b351bae74fde",
     "type": "split",
     "children": [
       {
-        "id": "b1e086c6d7163035",
+        "id": "2661e4aa2a605348",
         "type": "tabs",
         "children": [
           {
-            "id": "be4545a433d1bf8e",
+            "id": "b99633cad5af45e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -131,7 +136,7 @@
             }
           },
           {
-            "id": "ee8d1ec0a8aa624a",
+            "id": "7a384a56826d2ffc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -148,7 +153,7 @@
             }
           },
           {
-            "id": "f6913eaa1cee025e",
+            "id": "c9874dd61a7d7f66",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -165,19 +170,20 @@
     "width": 300
   },
   "right": {
-    "id": "52029fac3a332e99",
+    "id": "fd2b700a7b7aef9c",
     "type": "split",
     "children": [
       {
-        "id": "4f233711c195e655",
+        "id": "dc95d892be3a48ca",
         "type": "tabs",
         "children": [
           {
-            "id": "094f156e68d784d7",
+            "id": "38e111366fff3343",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Development of PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,24 +193,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Development of PM"
             }
           },
           {
-            "id": "70667bd3b343bf67",
+            "id": "f5e624c0ad072f52",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Development of PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Development of PM"
             }
           },
           {
-            "id": "6b12de9771e34d82",
+            "id": "5253bc1b7b40af9e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -219,17 +226,18 @@
             }
           },
           {
-            "id": "c4240d91e84cc913",
+            "id": "9796eb83abc700f7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Development of PM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Development of PM"
             }
           }
         ]
@@ -250,8 +258,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d022cc6773f87adf",
+  "active": "8f9164cbdbce341b",
   "lastOpenFiles": [
+    "Pasted image 20251029204732.png",
+    "PM in Language.md",
     "Effect of PM on Cognition.md",
     "Intrinsic vs Learned.md",
     "Measuring PM.md",
