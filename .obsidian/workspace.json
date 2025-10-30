@@ -6,7 +6,7 @@
       {
         "id": "e8bf2ec0794695b7",
         "type": "tabs",
-        "dimension": 33.053691275167786,
+        "dimension": 46.72818791946309,
         "children": [
           {
             "id": "8ba04ef92d9a9d01",
@@ -27,7 +27,7 @@
       {
         "id": "18b2e9b091d1903c",
         "type": "tabs",
-        "dimension": 66.94630872483222,
+        "dimension": 53.27181208053692,
         "children": [
           {
             "id": "524edba4529e0511",
@@ -184,20 +184,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "524edba4529e0511",
+  "active": "8ba04ef92d9a9d01",
   "lastOpenFiles": [
+    "PM in Technologies.md",
+    "PM in Human Relationships.md",
+    "PM in Language.md",
+    "Pasted image 20251029204141.png",
+    "PM and Stereotypes.md",
+    "Pasted image 20251029204732.png",
     "Pattern Matching Overview.md",
+    "AI and The Human Brain.md",
+    "Pasted image 20251029160735.png",
+    "Types of PM.md",
     "PM in The Human Brain.md",
     "CCA in PM.md",
     "Enhancing PM.md",
     "Development of PM.md",
     "Effect of PM on Cognition.md",
-    "Types of PM.md",
-    "PM in Human Relationships.md",
-    "PM in Technologies.md",
-    "AI and The Human Brain.md",
-    "PM in Facial Expressions.md",
-    "PM and Stereotypes.md",
     "Measuring PM.md",
     "Intrinsic vs Learned.md",
     "Data in PM.md",
