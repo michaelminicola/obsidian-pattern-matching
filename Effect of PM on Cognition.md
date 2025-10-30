@@ -1,20 +1,18 @@
 ## Cognitive Benefits
 ### Chunking and Memory
-When we see patterns we can group information together building the mental schemas described in [[Development of PM]]. This is called chunking. For example chess masters see common board setups instead of individual pieces which helps them remember more.
-
-### Faster Thinking and Decision-Making
-Once a pattern is familiar we can act quickly without thinking deeply. We use learned patterns to solve problems or respond to situations faster, especially when we deliberately practice the strategies in [[Enhancing PM]].
-
+When we recognize patterns we can group related information to create mental frameworks described in [[Development of PM]]. This is known as chunking. Chess masters use chunking by recognizing familiar board positions instead of analyzing each piece individually. This allows them to hold more information in memory.
+### Decision Making
+Once we know a pattern well we can react almost automatically without any actual analysis. We use these learned patterns to solve problems and more efficiently handle situations especially through practice methods in [[Enhancing PM]].
 ### Learning and Generalization
-We learn new things by noticing patterns in language, behaviour and events. Once we know a pattern, we can use it in different situations, transferring skills across the categories outlined in [[Types of PM]].
-
+We learn through pattern matching. Once we have identified and understood a pattern we can apply it across a ton of different contexts and transfer skills between the categories talked about in [[Types of PM]].
 ## Common Mistakes
-
 ### Seeing False Patterns
-Sometimes we find patterns where there are none. This is called apophenia. For example we might see shapes in clouds or believe in lucky numbers, a risk that also appears when we misread signals discussed in [[Data in PM]].
-
+Sometimes we see patterns when they aren't actually there and this is called apophenia. Some examples of this are when you see faces in clouds or how believing that certain numbers are lucky.
 ### Overgeneralization and Bias
-We might use a pattern to judge people or situations unfairly. Stereotypes form when we apply a pattern to everyone in a group even if it doesn't fit which links to the social dynamics explored in [[PM and Stereotypes]] and [[PM in Human Relationships]].
-
+Pattern matching allows us to speed up our thinking and can make thinking more "efficient". We shouldn't rely on patterns for everything though as it is can have some downsides but it is extremely valuable for learning and predicting.
 ## Summary
-Pattern matching makes our thinking faster and more efficient but we must be careful not to trust patterns blindly. It’s a powerful mental tool that helps us learn, predict and act. For a broader we can connect this with the systems perspective in [[Pattern Matching Overview]] and the neurological similarities in [[AI and The Human Brain]].
+Pattern matching allows us to think faster and more efficiently but we have to be careful not to trust patterns blindly. It’s a great mental tool that can help us learn, understand and act on them.
+## References
+1. Mattson, Mark P. “Superior Pattern Processing Is the Essence of the Evolved Human Brain.” Frontiers, Aug. 2014. https://doi.org/10.3389/fnins.2014.00265
+
+2. Kurzweil, Ray. _How to Create a Mind: The Secret of Human Thought Revealed_. Viking Press, 2012.
