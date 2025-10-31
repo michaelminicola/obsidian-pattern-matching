@@ -13,40 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effect of PM on Cognition.md",
+                "file": "CCA in PM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effect of PM on Cognition"
+              "title": "CCA in PM"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "62986d2f9275d6f5",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9c5f56f7ae329285",
+            "id": "aec5b93523974c3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Measuring PM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Measuring PM"
-            }
-          },
-          {
-            "id": "ed3f5b8127c8da4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intrinsic vs Learned.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intrinsic vs Learned"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "52029fac3a332e99",
@@ -195,17 +182,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "0555114fa006ece7",
+  "active": "aec5b93523974c3f",
   "lastOpenFiles": [
+    "Pattern Matching Overview.md",
+    "CCA in PM.md",
+    "Pasted image 20251030195122.png",
+    "PM in Technologies.md",
+    "Effect of PM on Cognition.md",
     "Measuring PM.md",
     "Intrinsic vs Learned.md",
-    "Effect of PM on Cognition.md",
-    "PM in Technologies.md",
     "PM in The Human Brain.md",
     "Enhancing PM.md",
     "AI and The Human Brain.md",
     "PM and Stereotypes.md",
-    "Pattern Matching Overview.md",
     "Development of PM.md",
     "Types of PM.md",
     "PM in Human Relationships.md",
@@ -213,7 +202,6 @@
     "Pasted image 20251029204141.png",
     "PM in Language.md",
     "Data in PM.md",
-    "CCA in PM.md",
     "Untitled.canvas",
     "2025-10-29.md",
     "README.md",
