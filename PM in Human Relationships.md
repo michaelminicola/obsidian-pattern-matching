@@ -6,11 +6,12 @@ In one of the experiments, strangers were shown a 5-minute video clips of strang
 
 One of the findings that might seem surprising is that sometimes "people make better judgments when they rely on their intuition rather than when they introspect or reason" [1].
 
--------------------
+## Language
 
 Another crucial aspect in human relationships is language. In [[PM in Language]], we focus on how people talking to each other impacts both of their speaking style, as discussed in the "Linguistic Style Matching in Social Interaction" article. [2]
 
-------------
+## Stereotypes
+
 One of the things that affect people's relationships with each other, especially those they are unfamiliar with, is stereotypes. A stereotype refers to "a set idea that people have about what someone or something is like, especially an idea that is wrong" [3] . Turns out that stereotypes are strongly related to Pattern Matching. In [[PM and Stereotypes]], we explain how stereotypes form and their effect on cognitive inference.
 
 -----
