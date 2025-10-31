@@ -12,8 +12,8 @@ There have been many studies that have aimed to identify if re-envoking memories
 
 # Conditions and Facilitators
 
-# #Attention
-Attention to a task is extremely beneficial for developing pattern recognition abilities in the sense of identifying, understanding, and rememebering the subject.  Although, it has been shown that it is not necessary[1].  The background noise of pattern recognition can still settle in your brain without you even realizing it.  Think of yourself always walking past blue billboards on your way to school and never thinking about it, once the billboard turns red you are able to identify the shift in the pattern without consciously thinking about it.  
+# Attention
+Attention to a task is extremely beneficial for developing pattern recognition abilities in the sense of identifying, understanding, and remembering the subject.  Although, it has been shown that it is not necessary[1].  The background noise of pattern recognition can still settle in your brain without you even realizing it.  Think of yourself always walking past blue billboards on your way to school and never thinking about it, once the billboard turns red you are able to identify the shift in the pattern without consciously thinking about it.  
 
 ## Reward Based Learning
 Recieving a reward for your efforts has been proven to boost perceptual learning abilities[1].  This is caused by the release of dopamine when accomplishing the task, which is central in reforcement learning [1].  This is similar to what is seen in video games as you achieve "rewards" as you make your conquest through the different levels, giving the individuals something to work towards.  
