@@ -37,31 +37,21 @@ Sensory    Hierarchical        Template           Action/
 
 ### How It Works
 
-1. **Bottom-Up Processing**: Sensory features activate detectors
-2. **Top-Down Processing**: Expectations guide pattern search
-3. **Template Matching**: Compare input against stored patterns
-4. **Probabilistic Inference**: Weight evidence for best match
+The brain employs bottom-up processing where sensory features activate specific neural detectors[1]. Simultaneously, top-down processing allows prior expectations to guide pattern search[1]. Current input is compared against stored representations through template matching, while probabilistic inference helps the brain weight evidence to determine the best match.
 
 ## Cognitive Augmentation Approach
 
-The brain augments cognition through pattern matching by:
-
-**Chunking**: Grouping elements into meaningful units
-- Expert chess players see board positions, not individual pieces
-- Musicians recognize chord progressions, not separate notes
-
-**Predictive Coding**: Brain predicts expected patterns
-- Reduces processing by encoding prediction errors
-- Enables rapid response to familiar situations
-
-**Neural Plasticity**: Pattern detectors strengthen with experience
-- Practice builds more efficient recognition circuits
-- Expertise = extensive pattern libraries + rapid access
+The brain augments cognition through pattern matching using several key strategies. Chunking groups elements into meaningful units[2], allowing expert chess players to see board positions rather than individual pieces, and musicians to recognize chord progressions instead of separate notes. The brain predicts expected patterns[1] through predictive coding and reduces processing by encoding only prediction errors, enabling rapid response to familiar situations. Neural plasticity means pattern detectors strengthen with experience as practice builds more efficient recognition circuits. Expertise develops through extensive pattern libraries and rapid access to them.
 
 ## Related Topics
 - [[Types of PM]] - Categories of patterns the brain processes
 - [[AI and The Human Brain]] - How machines approach similar problems
 - [[Pattern Matching Overview]] - Return to main overview
+
+## References
+1. Friston, K. (2010). The free-energy principle: A unified brain theory? _Nature Reviews Neuroscience_, 11(2), 127-138. https://doi.org/10.1038/nrn2787
+
+2. Gobet, F., & Simon, H. A. (1996). The roles of recognition processes and look-ahead search in time-constrained expert problem solving. _Psychological Science_, 7(1), 52-55. https://doi.org/10.1111/j.1467-9280.1996.tb00666.x
 
 
 

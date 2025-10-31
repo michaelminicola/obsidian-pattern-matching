@@ -4,15 +4,11 @@
 
 Pattern matching is a fundamental cognitive process where the brain identifies regularities, similarities, and structures in sensory input. This ability forms the foundation of learning, recognition, and decision-making across both biological and artificial systems.
 
-**Key Definition**: Pattern matching is the computational and cognitive process of detecting regularities in data, allowing systems to recognize familiar inputs, make predictions, and generalize from past experience.
+**Key Definition**: Pattern matching is the computational and cognitive process of detecting regularities in data, allowing systems to recognize familiar inputs, make predictions, and generalize from past experience[1].
 
 ## Why Pattern Matching Matters
 
-Pattern matching enables:
-- **Recognition**: Identifying faces, objects, sounds, and concepts
-- **Prediction**: Anticipating future events based on past patterns
-- **Learning**: Forming categories and building knowledge structures
-- **Efficiency**: Processing information rapidly through templates
+Pattern matching enables recognition of faces, objects, sounds, and concepts. It supports prediction by allowing us to anticipate future events based on past patterns. This fundamental ability drives learning through the formation of categories and knowledge structures, while dramatically improving efficiency by allowing rapid information processing through templates.
 
 ## Organization of Topics
 
@@ -34,15 +30,9 @@ Additional areas covered include data representation, [[PM in Human Relationship
 
 ## Cognitive Augmentation Through Pattern Matching
 
-Pattern matching serves as a cognitive augmentation tool by:
-
-1. **Reducing Cognitive Load**: Templates allow rapid processing without detailed analysis
-2. **Enhancing Memory**: Patterns provide organizing structures for information storage
-3. **Supporting Transfer**: Recognized patterns enable knowledge application across contexts
-4. **Accelerating Expertise**: Practice builds robust pattern libraries
+Pattern matching serves as a cognitive augmentation tool through multiple mechanisms. Templates allow rapid processing without detailed analysis which reduces cognitive load. Patterns provide organizing structures for information storage which effectively improves memory. Recognized patterns enable knowledge application across contexts, supporting transfer learning. Finally, practice builds robust pattern libraries that accelerate the development of expertise.
 
 The following pages explore how both brains and machines leverage pattern matching to augment cognitive capabilities.
 
-
-
-
+## References
+1. Mattson, Mark P. "Superior Pattern Processing Is the Essence of the Evolved Human Brain." _Frontiers in Neuroscience_, Aug. 2014. https://doi.org/10.3389/fnins.2014.00265

@@ -14,26 +14,14 @@ How do biological and artificial systems approach the same fundamental challenge
 
 ## Shared Principles
 
-Despite different implementations, both systems use:
-
-**Hierarchical Processing**
-- Brain: V1 → V2 → V4 → IT cortex (simple → complex features)
-- AI: Conv Layer 1 → Conv Layer 2 → ... → Output (edges → objects)
-
-**Distributed Representations**
-- Brain: Patterns encoded across neural populations
-- AI: Vector embeddings in high-dimensional spaces
-
-**Learning Through Adjustment**
-- Brain: Synaptic plasticity (Hebbian learning)
-- AI: Gradient descent (backpropagation)
+Despite different implementations, both systems rely on hierarchical processing[1]. In the brain, it flows from simple to complex features (V1 to V2 to V4 to IT cortex). In AI, convolutional layers progress similarly from edges to objects. Both systems use distributed representations, with the brain encoding patterns across neural populations while AI uses vector embeddings in high-dimensional spaces. Learning occurs through adjustment in both cases—synaptic plasticity and Hebbian learning in the brain, and gradient descent in AI.
 
 ## Key Differences
 
 ### Human Brain Advantages
 
 **Few-Shot Learning**
-- Can recognize new categories from 1-2 examples
+- Recognizes new categories from 1-2 examples[2]
 - AI typically requires thousands of labeled instances
 
 **Contextual Integration**
@@ -42,10 +30,10 @@ Despite different implementations, both systems use:
 
 **Causal Understanding**
 - Grasps cause-effect relationships intuitively
-- AI finds correlations, not causation
+- AI finds correlations without causation
 
 **Efficient Learning**
-- Leverages prior knowledge and structure
+- Uses prior knowledge and structural biases
 - Active learning through curiosity and exploration
 
 ### AI Advantages
@@ -64,11 +52,13 @@ Despite different implementations, both systems use:
 
 ## Cognitive Augmentation Approaches
 
-**Brain's Approach**: Flexible, energy-efficient, few-shot, but limited capacity
-**AI's Approach**: Massive scale, consistent, fast, but narrow and data-hungry
+The brain's approach to pattern matching is flexible, energy-efficient, and capable of few-shot learning, but limited by processing capacity. AI offers massive scale, consistent performance, and high speed, but remains narrowly focused and data-hungry. These systems form a complementary partnership where humans provide goals, context, and flexibility while AI provides scale, speed, and tireless pattern detection.
 
-**Complementary Partnership**: Humans provide goals, context, and flexibility; AI provides scale, speed, and tireless pattern detection.
-
-## Other
+## Summary
 
 See [[PM in The Human Brain]] for biological details and [[PM in Technologies]] for computational methods.
+
+## References
+1. Yamins, D. L., & DiCarlo, J. J. (2016). Using goal-driven deep learning models to understand sensory cortex. _Nature Neuroscience_, 19(3), 356-365. https://doi.org/10.1038/nn.4244
+
+2. Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. _Science_, 350(6266), 1332-1338. https://pubmed.ncbi.nlm.nih.gov/26659050/
