@@ -18,9 +18,7 @@ One of the things that affect people's relationships with each other, especially
 
 All of the above connects to Pattern Matching in the Human Brain ([[PM in The Human Brain]]), since they are all cognitive functions.
 
-
-
-References:
+## References
 
 [1] N. Ambady and R. Rosenthal, “Thin slices of expressive behavior as predictors of interpersonal consequences: A meta-analysis,” _Psychological Bulletin_, vol. 111, no. 2, pp. 256–274, 1992.
 

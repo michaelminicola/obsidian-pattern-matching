@@ -11,10 +11,14 @@
             "id": "cefdd1ed38010f9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PM and Stereotypes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PM and Stereotypes"
             }
           }
         ]
@@ -164,9 +168,10 @@
   },
   "active": "cefdd1ed38010f9e",
   "lastOpenFiles": [
-    "Data in PM.md",
-    "PM in Human Relationships.md",
     "PM in Language.md",
+    "PM in Technologies.md",
+    "PM in Human Relationships.md",
+    "Data in PM.md",
     "PM and Stereotypes.md"
   ]
 }

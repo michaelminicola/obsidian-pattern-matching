@@ -11,6 +11,6 @@ How this related to stereotyping is that when someone makes a stereotypic infere
 In the article, they explain a study that they have done in which they brought 3 groups of people, with different stereotypes. For the first group, they "confirmed" their stereotype (e.g. _A_ → _B_). For the second, they "disconfirmed" (e.g. _A_ → $not$ _B_). For the third, they gave no feedback. The results then showed that participants in the of the first and third groups stereotyped more over time, while those in the second group remained unchanged. The third group not receiving any confirmatory feedback but still increase in stereotyping overtime is an indication that they "learned from their own untested assumptions" [1]. Moreover, the fact that those in group 2 did not have lower stereotypic rates even though they were provided with disconfirming evidence shows that "stereotype-confirming evidence carried more weight than stereotype-disconfirming evidence". [1]
 
 
-References:
+## References
 
 [1] W. T. L. Cox, X. Xie, and P. G. Devine, “Untested assumptions perpetuate stereotyping: Learning in the absence of evidence,” _Journal of Experimental Social Psychology_, vol. 102, p. 104380, 2022. doi: 10.1016/j.jesp.2022.104380.
