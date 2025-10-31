@@ -11,6 +11,7 @@
             "id": "0555114fa006ece7",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "CCA in PM.md",
@@ -19,6 +20,12 @@
               },
               "icon": "lucide-file",
               "title": "CCA in PM"
+=======
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+>>>>>>> 3c89f89b3a035128279e371293f00b0214b52a5b
             }
           }
         ]
@@ -184,6 +191,7 @@
   },
   "active": "aec5b93523974c3f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Pattern Matching Overview.md",
     "CCA in PM.md",
     "Pasted image 20251030195122.png",
@@ -191,6 +199,12 @@
     "Effect of PM on Cognition.md",
     "Measuring PM.md",
     "Intrinsic vs Learned.md",
+=======
+    "Effect of PM on Cognition.md",
+    "Measuring PM.md",
+    "Intrinsic vs Learned.md",
+    "PM in Technologies.md",
+>>>>>>> 3c89f89b3a035128279e371293f00b0214b52a5b
     "PM in The Human Brain.md",
     "Enhancing PM.md",
     "AI and The Human Brain.md",
